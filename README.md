@@ -11,8 +11,9 @@ The app is responsive and fast, it's available on both iPad and iPhone devices. 
 # Features
 The screenshots here depict the other **native davice capabilities** the app offers, like Sheets, Haptic Touch, Device Notifications, preferred in-app Theme, Language selection and more!
 
-![Untitled](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/8ec37def-fdbf-4a73-b410-9ca37aa48053)
-
+| Login Screen  |  ![login](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/0ec69f58-0114-4aaa-9509-0c6a038ef6a6) |  Spread Sheet  | ![Sheet](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/57f1f09e-778c-4f1d-be69-17044714de4c) | Haptic Touch  |  ![touch](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/64e9311b-56b9-462c-8ba4-9d4322ce60e9) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Today View**  | ![today](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/a7f3bfbd-86d8-49d8-8652-5addde1e3000) | **Scheduled Reminder**  | ![event](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/6111903d-4817-4fc1-a7c1-36d11c0be219) | **In-App Theme**  | ![theme](https://github.com/ales-drnz/SwiftUI-projects/assets/82038599/79456d38-7630-4524-b206-22ac33c62e8b) |
 
 
 # Work in progress
