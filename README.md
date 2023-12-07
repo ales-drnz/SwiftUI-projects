@@ -18,6 +18,3 @@ The screenshots here depict the other **native davice capabilities** the app off
 
 # Work in progress
 The app is not over yet. It's still missing a lot of features, such as cloud storage for images, account deletion, shared events and more. To see what's coming on this app please check the official website for the full changelog and future updates.
-
-# Links
-- Official Website ➔ http://todolistapp.infinityfreeapp.com/?i=1
